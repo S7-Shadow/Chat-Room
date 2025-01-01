@@ -1,5 +1,4 @@
 import socket
-from mailbox import Message
 
 
 class Server:
